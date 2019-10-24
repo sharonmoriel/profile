@@ -106,7 +106,7 @@ a {
   color: #395E66;
 }
 
-.icons:hover {
+.icons > a:hover {
   color: #263D42;
 }
 
